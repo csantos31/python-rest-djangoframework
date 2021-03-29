@@ -5,7 +5,7 @@ Projeto desenvolvido para fins de estudo do framework
 
 # HOMEPAGE
 ![Visao homepage](https://raw.githubusercontent.com/csantos31/python-rest-djangoframework/master/homepage.png)
-<br>
+    <br>
 
-#Admin
+# Admin
 ![Visao admin](https://raw.githubusercontent.com/csantos31/python-rest-djangoframework/master/adminpage.png)
